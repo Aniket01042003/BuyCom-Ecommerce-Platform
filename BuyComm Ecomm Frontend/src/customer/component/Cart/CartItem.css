@@ -1,0 +1,32 @@
+.cartitem{
+    position: relative;
+    border: 1px solid #dee2e6 !important;
+    width: 50rem;
+    top: 0rem;
+    left: 0rem;
+    height: auto;
+    bottom: 1rem;
+}
+.cartbox{
+    display: flex;
+}
+.lis{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+.j{
+    /* border: 2px solid; */
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    /* height: 4rem; */
+    width: 13rem;
+}
+.border{
+    width: 3rem;
+    top: 0rem;
+    left: 0rem;
+}

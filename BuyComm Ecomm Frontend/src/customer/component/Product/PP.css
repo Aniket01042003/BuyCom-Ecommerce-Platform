@@ -1,0 +1,9 @@
+.up{
+     justify-content: space-evenly;
+       top: 10; 
+       gap: 14px;
+}
+.pageniet{
+  display: flex;
+  justify-content: center;
+}

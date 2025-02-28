@@ -1,0 +1,28 @@
+
+.hidden{
+  /* border: 2px solid red; */
+  width: 22rem;
+  height: fit-content;
+}
+.hidden ul li{
+  display: flex;
+}
+.flex {
+  justify-content: space-between;
+  align-items: center;
+}
+.border-gray-200 {
+  padding: 1rem 3rem;
+}
+.border{
+  width: auto;
+}
+.pt-6{
+  display: flex;
+}
+.up{
+  padding-left: 3rem;
+  gap: 20px;
+  justify-content: start;
+  align-items: center;
+}

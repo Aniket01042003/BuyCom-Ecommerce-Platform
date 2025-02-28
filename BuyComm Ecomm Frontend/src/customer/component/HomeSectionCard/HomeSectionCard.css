@@ -1,0 +1,11 @@
+.alice-carousel__stage-item{
+    width: 281.84px;
+    margin: 25px 25px;
+}
+.alice-carousel__wrapper{
+    padding-left: 92rem;
+}
+.flex{
+    justify-content: center;
+    align-items: center;
+}

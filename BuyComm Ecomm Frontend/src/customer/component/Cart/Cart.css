@@ -1,0 +1,17 @@
+.bc{
+    border: 2px solid red;
+}
+.cartar{
+    justify-content: space-around;
+    align-items: flex-start;
+}
+.ar{
+    align-items: flex-start;
+    margin-top: 1.5rem;
+    color: black;
+}
+.cb{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

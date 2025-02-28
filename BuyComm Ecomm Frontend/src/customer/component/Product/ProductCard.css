@@ -1,0 +1,18 @@
+.card{
+    width: 15rem;
+    margin: 10px;
+}
+.card .card-body{
+    transition: transform .3s ease-out;
+}
+.cardimg{
+    width: 20rem;
+    height: 20rem;
+}
+
+.card:hover .card-body{
+    transform: translateY(-1rem); 
+}
+.card:hover{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;;
+}

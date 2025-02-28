@@ -1,0 +1,19 @@
+.height{
+    height: 20px;
+    border: 2px solid red;
+}
+.separation{
+    margin:10px 0px ;
+    background: yellow;
+    height: 30px;
+    width: 100vw;
+}
+.zind{
+    z-index: 1000;
+}
+.checkcl{
+    display: flex;
+}
+.payadd{
+    display: flex;
+}

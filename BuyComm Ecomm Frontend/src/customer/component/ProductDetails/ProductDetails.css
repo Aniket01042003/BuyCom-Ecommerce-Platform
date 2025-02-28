@@ -1,0 +1,57 @@
+.con {
+    flex-direction: column;
+}
+
+.con_nav {
+    display: flex;
+}
+
+.flex12 {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.rad {
+    width: 34px;
+}
+
+.griddiv {
+    /* border: 2px solid red; */
+    width: 86rem;
+}
+
+.img11 {
+    max-width: 100%;
+    max-height: 100vh;
+    margin: auto;
+}    
+.colsize {
+    position: relative;
+    left: -11rem;
+}
+.colsize2 {
+    position: relative;
+    left: -13rem;
+}
+.but{
+    /* border: 1px solid gray;*/
+    border-radius: 100px; 
+    height:2rem;
+    width:30px;
+    position: relative;
+    top:0rem;
+    left:0rem;
+    bottom: 1rem;
+}
+.separation{
+    margin:10px 0px ;
+    background: yellow;
+    height: 30px;
+    width: 100vw;
+}
+.w1{
+    position: relative;
+    width: 96vw;
+    left: 1rem;
+} 

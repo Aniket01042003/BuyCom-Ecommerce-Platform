@@ -1,0 +1,41 @@
+.p-5 {
+    margin: 1rem 0rem;
+    width: 87vw;
+    padding: 1rem 1rem !important;
+}
+
+.alice-carousel {
+    /* border: 2px solid red; */
+    position: relative;
+    width: 96vw;
+    /* margin: auto; */
+    direction: ltr;
+}
+
+.hk {
+    left: -2rem;
+    /* border: 2px solid red; */
+    width: 92vw;
+    position: relative;
+    z-index: 10;
+    /* Ensure it's lower than the dropdown menu */
+}
+.border {
+    position: relative;
+    border: 1px solid #dee2e6 !important;
+    width: 100vw;
+    top: 2rem;
+    left: 4rem;
+    bottom: 1rem;
+}
+.alice-carousel__wrapper {
+    padding-left: 92rem;
+    /* border: 2px solid blue; */
+    left: 3rem;
+    width: 89vw;
+}
+.blockquote{
+    font-size: xx-large;
+    width: 113%;
+    font-weight: 400;
+}
